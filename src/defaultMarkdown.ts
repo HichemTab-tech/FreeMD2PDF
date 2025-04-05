@@ -1,4 +1,8 @@
 const defaultMarkdown = `
+
+
+![FreeMD2PDF Logo](https://raw.githubusercontent.com/HichemTab-tech/FreeMD2PDF/master/public/cover.png "FreeMD2PDF Logo")
+
 # 🚀 Welcome to FreeMD2PDF
 
 **FreeMD2PDF** is a sleek, open-source web app that lets you convert your Markdown ✍️ into a beautiful, downloadable PDF 📄 — right from your browser!
@@ -27,8 +31,8 @@ Like this tool? Consider [buying me a coffee](https://www.buymeacoffee.com/hiche
 Check out more cool stuff I’ve built:
 
 - 🔧 [GitHub Profile](https://github.com/HichemTab-tech)
-- 🧩 [npm Packages](https://www.npmjs.com/~hichem-tab)
-- 🌐 [My Website](https://hichem.dev)
+- 🧩 [npm Packages](https://www.npmjs.com/~hichemtab)
+- ✍️ [Medium Profile](https://medium.com/@HichemTab-tech)
 
 ---
 
