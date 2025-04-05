@@ -1,3 +1,8 @@
+<!--suppress HtmlDeprecatedAttribute -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HichemTab-tech/FreeMD2PDF/master/public/cover.png" alt="cover image"/>
+</p>
+
 # FreeMD2PDF 📄✨
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -19,7 +24,7 @@ no server uploads, no subscriptions, just pure client-side magic!
 
 ## 🚀 Try It Now
 
-Visit [FreeMD2PDF](https://hichem.dev/free-md2pdf) to start using the tool right away - no installation required!
+Visit [FreeMD2PDF](https://free-md-2-pdf.vercel.app) to start using the tool right away - no installation required!
 
 ## 🛠️ Technology Stack
 
@@ -72,8 +77,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Hichem** - [@HichemTab-tech](https://github.com/HichemTab-tech)
 
-- X: [hichem.dev](https://x.com/hichemtab1)
-- Instagram: [hichem.dev](https://instagram.com/hichem.tab)
+- X: [hichemtab1](https://x.com/hichemtab1)
+- Instagram: [hichem.tab](https://instagram.com/hichem.tab)
 - npm: [~hichemtab](https://www.npmjs.com/~hichemtab)
 
 ## 🙏 Acknowledgments

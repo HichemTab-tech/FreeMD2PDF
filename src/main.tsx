@@ -6,7 +6,7 @@ import {ThemeProvider} from "@/components/theme-provider.tsx";
 
 createRoot(document.getElementById('root')!).render(
     <>
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
+        <ThemeProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange>
             <App/>
             <Toaster/>
         </ThemeProvider>
