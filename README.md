@@ -1,54 +1,88 @@
-# React + TypeScript + Vite
+# FreeMD2PDF 📄✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange.svg)](https://www.buymeacoffee.com/HichemTabTech)
+[![GitHub](https://img.shields.io/badge/GitHub-HichemTab--tech-green.svg)](https://github.com/HichemTab-tech)
 
-Currently, two official plugins are available:
+A free, open-source web application that converts Markdown to beautiful PDF documents directly in your browser -
+no server uploads, no subscriptions, just pure client-side magic!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **🖋️ Live Markdown Editor** - Write and edit your Markdown with real-time preview
+- **👁️ Instant Preview** - See exactly how your document will look as you type
+- **📱 Responsive Design** - Works perfectly on both desktop and mobile devices
+- **🌓 Dark/Light Mode** - Choose the theme that's easiest on your eyes
+- **🔄 Client-side Processing** - Your data never leaves your browser
+- **💯 100% Free** - No hidden fees, no premium features, everything is included
+- **📤 One-click Export** - Download your document as a professionally formatted PDF
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🚀 Try It Now
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+Visit [FreeMD2PDF](https://hichem.dev/free-md2pdf) to start using the tool right away - no installation required!
+
+## 🛠️ Technology Stack
+
+- React with TypeScript
+- Vite for fast development and building
+- TailwindCSS for styling
+- jsPDF and html2canvas for PDF generation
+- React Markdown for rendering
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
+Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📋 Development
+
+```bash
+# Clone the repository
+git clone https://github.com/HichemTab-tech/FreeMD2PDF.git
+
+# Navigate to the project directory
+cd FreeMD2PDF
+
+# Install dependencies
+pnpm install
+
+# Start the development server
+pnpm dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## ☕ Support the Project
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+If you find FreeMD2PDF useful, please consider supporting its development:
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=HichemTabTech&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/HichemTabTech)
+
+Your support helps keep this tool free and continuously improving!
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## 👨‍💻 Creator
+
+**Hichem** - [@HichemTab-tech](https://github.com/HichemTab-tech)
+
+- X: [hichem.dev](https://x.com/hichemtab1)
+- Instagram: [hichem.dev](https://instagram.com/hichem.tab)
+- npm: [~hichemtab](https://www.npmjs.com/~hichemtab)
+
+## 🙏 Acknowledgments
+
+- Thanks to all the open-source libraries that made this project possible
+- Special thanks to everyone who has supported the project through "Buy Me a Coffee"
+- And most importantly, thank you for using **FreeMD2PDF**!
+
+---
+
+<!--suppress HtmlDeprecatedAttribute -->
+<p align="center">Made with ❤️ by <a href="https://github.com/HichemTab-tech">Hichem</a></p>
