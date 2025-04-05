@@ -1,0 +1,16 @@
+#target {
+    padding: 40px;
+    background: white;
+    width: 794px; /* A4 width in px at 96 DPI */
+}
+
+.target-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    z-index: -200 !important;
+    pointer-events: none !important;
+}
