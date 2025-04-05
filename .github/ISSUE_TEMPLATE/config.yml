@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FreeMD2PDF Community Support
+    url: https://github.com/HichemTab-tech/FreeMD2PDF/discussions
+    about: Please ask and answer questions here.
+  - name: FreeMD2PDF Security Bug
+    url: mailto:hichem.tab2002@gmail.com
+    about: Please report security vulnerabilities directly to the maintainer.
