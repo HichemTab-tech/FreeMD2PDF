@@ -93,3 +93,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <p align="center">Made with ❤️ by <a href="https://github.com/HichemTab-tech">Hichem</a></p>
 
 <!-- GitAds-Verify: 2M7X7K7AP6BGLHSL2PPPQ5F6M4AAKLP8 -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=hichemtab-tech/freemd2pdf@github)](https://gitads.dev/v1/ad-track?source=hichemtab-tech/freemd2pdf@github)
+
+
