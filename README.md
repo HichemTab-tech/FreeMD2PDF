@@ -91,3 +91,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">Made with ❤️ by <a href="https://github.com/HichemTab-tech">Hichem</a></p>
+
+<!-- GitAds-Verify: 2M7X7K7AP6BGLHSL2PPPQ5F6M4AAKLP8 -->
