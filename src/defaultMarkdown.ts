@@ -14,6 +14,7 @@ const defaultMarkdown = `
 - 🆓 100% Free & Open Source  
 - 💡 Instant Markdown Preview  
 - 📦 Export to PDF with a Click  
+- ⚙️ Customizable Margins for Perfect Layout
 - 🎨 Clean & Minimal Interface
 
 ---
